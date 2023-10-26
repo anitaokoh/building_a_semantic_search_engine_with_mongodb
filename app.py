@@ -138,7 +138,7 @@ if __name__ == '__main__':
     st.sidebar.header('About Search Engine')
     st.sidebar.write("""
     This Search Engine was created to demo the different results between semantic search and Full-text search. The data used was sourced from [here](https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod/).
-    Demo repo can be found [here](https://github.com/anitaokoh/Monitoring-the-layoffs-company-rounds-from-2020---till-date).
+    Demo repo can be found [here](https://github.com/anitaokoh/building_a_semantic_search_engine_with_mongodb).
     """)
                  
     st.sidebar.markdown('''
