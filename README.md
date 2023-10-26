@@ -5,6 +5,7 @@ This Semantic Search Engine was built for the purpose of
 - Comparing the different between a basic Semantic search engine and a simple Full-Text Search Engine
 
 ### Here is the infracstructure diagram
+![image](images/infra.png)
 
 
 ### Basic Components used
@@ -14,4 +15,5 @@ This Semantic Search Engine was built for the purpose of
 - Frontend: Streamlit
 
 ### Here is a Screencast of the App
+![video](images/semantic_search.gif)
 

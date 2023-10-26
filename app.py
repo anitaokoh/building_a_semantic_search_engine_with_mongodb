@@ -6,7 +6,7 @@ from io import BytesIO
 import pymongo
 import re
 from transform_data import data_transformation
-from src.store_and_convert_to_vector_index import search_functionality
+from store_and_convert_to_vector_index import search_functionality
 from store_to_mongodb import connect_to_mongodb
 
 
